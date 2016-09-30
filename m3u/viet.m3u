@@ -1,0 +1,19 @@
+#EXTM3U Phim Truyen Viet Nam
+#EXTINF:-1,VTV 1
+http://vnn.anluong.info/hls/vtv1.m3u8
+
+#EXTINF:-1, VTV3
+http://118.70.203.130:1935/channel/vtv3hd_vtvlive/playlist.m3u8?1458902810590&b74670ad934291d52b796dc3fc03f0d5
+
+
+#EXTINF:-1, HBO
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Nguoi Lon",Sex 1
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Nguoi Lon",sex 2
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Tre Em",Hoat Hinh 1
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Tre Em",Hoat Hinh 2
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+
