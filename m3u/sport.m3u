@@ -1,0 +1,441 @@
+﻿#EXTM3U thanh51
+
+#EXTINF:-1,[COLORred][B]Updated ngày 22.09.2016[/B][/COLOR]
+http://textuploader.com
+
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 1 HD
+udp://@225.1.1.10:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 2 HD
+udp://@225.1.1.12:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 3 HD
+udp://@225.1.2.204:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 4 HD
+udp://@225.1.1.68:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 5
+udp://@225.1.2.83:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 6
+udp://@225.1.1.32:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 7
+udp://@225.1.1.70:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 8
+udp://@225.1.2.71:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 9
+udp://@225.1.2.73:30120
+#EXTINF:-1 group-title="BÓNG ĐÁ",BÓNG ĐÁ 10
+udp://@225.1.2.75:30120
+
+#EXTINF:-1 group-title="CA NHẠC",CA NHẠC 1
+udp://@225.1.1.7:30120
+#EXTINF:-1 group-title="CA NHAC",CA NHẠC 2
+udp://@225.1.1.8:30120
+
+#EXTINF:-1 group-title="VTV", VTV1
+udp://@225.1.1.250:30120
+#EXTINF:-1 group-title="VTV", VTV1 HD
+udp://@225.1.2.248:30120
+#EXTINF:-1 group-title="VTV", VTV2 
+udp://@225.1.1.249:30120
+#EXTINF:-1 group-title="VTV", VTV3 HD
+udp://@225.1.2.246:30120
+#EXTINF:-1 group-title="VTV", VTV4
+udp://@225.1.1.248:30120
+#EXTINF:-1 group-title="VTV", VTV5
+udp://@225.1.1.247:30120
+#EXTINF:-1 group-title="VTV", VTV6  
+udp://@225.1.1.246:30120
+#EXTINF:-1 group-title="VTV", VTV6 HD
+udp://@225.1.2.244:30120
+#EXTINF:-1 group-title="VTV", VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:-1 group-title="VTV", VTV9
+udp://@225.1.1.27:30120
+#EXTINF:-1 group-title="VTV", TTXVN
+udp://@225.1.1.167:30120
+#EXTINF:-1 group-title="VTV", QPVN
+udp://@225.1.1.226:30120
+#EXTINF:-1 group-title="VTV", ANTV
+udp://@225.1.2.169:30120
+#EXTINF:-1 group-title="VTV", VOV
+udp://@225.1.2.171:30120
+#EXTINF:-1 group-title="VTV", VIETNAMNET
+udp://@225.1.1.194:30120
+#EXTINF:-1 group-title="VTV", QPVN HD
+udp://@225.1.2.216:30120
+#EXTINF:-1 group-title="VTV", QUOC HOI HD
+udp://@225.1.2.148:30120
+
+#EXTINF:-1 group-title="VTVcab", VTVcab1
+udp://@225.1.2.150:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab2
+udp://@225.1.2.159:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab3
+udp://@225.1.2.158:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab3 THETHAO HD
+udp://@225.1.2.240:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab4
+udp://@225.1.2.153:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab5
+udp://@225.1.2.156:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab6
+udp://@225.1.1.254:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab7
+udp://@225.1.2.157:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab8
+udp://@225.1.2.161:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab9
+udp://@225.1.2.154:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab10
+udp://@225.1.2.152:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab11
+udp://@225.1.1.252:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab12
+udp://@225.1.2.155:30120
+#EXTINF:-1 group-title="VTVcab", VTVCAB13
+udp://@225.1.1.116:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab14
+udp://@225.1.1.253:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab15
+udp://@225.1.1.251:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab16
+udp://@225.1.2.160:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab16 BONGDA HD
+udp://@225.1.2.242:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab17
+udp://@225.1.2.151:30120
+#EXTINF:-1 group-title="VTVcab", VTVcab20
+udp://@225.1.1.15:30120
+
+#EXTINF:-1 group-title="HTV", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 group-title="HTV", HTV2
+udp://@225.1.1.179:30120
+#EXTINF:-1 group-title="HTV", HTV2 HD
+udp://@225.1.1.193:30120
+#EXTINF:-1 group-title="HTV", HTV3
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="HTV", HTV4
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="HTV", HTV7
+udp://@225.1.1.176:30120
+#EXTINF:-1 group-title="HTV", HTV7 HD
+udp://@225.1.1.191:30120
+#EXTINF:-1 group-title="HTV", HTV9
+udp://@225.1.1.175:30120
+#EXTINF:-1 group-title="HTV", HTV9 HD
+udp://@225.1.1.189:30120
+#EXTINF:-1 group-title="HTV", HTVC THUAN VIET
+udp://@225.1.1.174:30120
+#EXTINF:-1 group-title="HTV", HTVC THUAN VIET HD
+udp://@225.1.1.185:30120
+#EXTINF:-1 group-title="HTV", HTVC PHIM 
+udp://@225.1.1.173:30120
+#EXTINF:-1 group-title="HTV", HTVC PHIM HD
+udp://@225.1.1.183:30120
+#EXTINF:-1 group-title="HTV", HTVC FBNC
+udp://@225.1.1.88:30120
+#EXTINF:-1 group-title="HTV", HTVC FBNC HD
+udp://@225.1.1.181:30120
+#EXTINF:-1 group-title="HTV", HTVC PHU NU
+udp://@225.1.1.171:30120
+#EXTINF:-1 group-title="HTV", HTVC DU LICH
+udp://@225.1.1.166:30120
+#EXTINF:-1 group-title="HTV", HTVC GIA DINH
+udp://@225.1.1.170:30120
+#EXTINF:-1 group-title="HTV", HTVC VG SHOP
+udp://@225.1.1.172:30120
+
+#EXTINF:-1 group-title="VTC", VTC1
+udp://@225.1.2.203:30120
+#EXTINF:-1 group-title="VTC", VTC1 HD 
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="VTC", VTC3
+udp://@225.1.2.201:30120
+#EXTINF:-1 group-title="VTC", VTC3HD
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC", VTC4 HD
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC", VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="VTC", VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="VTC", VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="VTC",  VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="VTC", VTC9
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="VTC", VTC10
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC", VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="VTC", VTC12
+udp://@225.1.2.192:30120
+#EXTINF:-1 group-title="VTC", VTC13
+udp://@225.1.2.189:30120
+#EXTINF:-1 group-title="VTC", VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC", VTC14 s1
+udp://@225.1.2.191:30120
+#EXTINF:-1 group-title="VTC", VTC14 s2
+udp://@225.1.2.162:30120
+#EXTINF:-1 group-title="VTC", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="VTC", VTC16 
+udp://@225.1.2.190:30120
+
+#EXTINF:-1 group-title="Mobitv", ANTG
+udp://@225.1.1.208:30120
+#EXTINF:-1 group-title="Mobitv", BTV10 NCM
+udp://@225.1.1.225:30120
+#EXTINF:-1 group-title="Mobitv", BTV11 SAM
+udp://@225.1.1.224:30120
+#EXTINF:-1 group-title="Mobitv", VIETEEN
+udp://@225.1.1.223:30120
+#EXTINF:-1 group-title="Mobitv", PHIM HAY
+udp://@225.1.1.222:30120
+#EXTINF:-1 group-title="Mobitv", MIEN TAY
+udp://@225.1.1.221:30120
+
+#EXTINF:-1 group-title="DIA PHUONG", HA NOI 1
+udp://@225.1.2.186:30120
+#EXTINF:-1 group-title="DIA PHUONG", HA NOI 2
+udp://@225.1.1.125:30120
+#EXTINF:-1 group-title="DIA PHUONG", MOV Hanoicab4
+udp://@225.1.1.206:30120
+#EXTINF:-1 group-title="DIA PHUONG", HITV Hanoicab1
+udp://@225.1.1.209:30120
+#EXTINF:-1 group-title="DIA PHUONG", YouTV Hanoicab2
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="DIA PHUONG", CAO BANG
+udp://@225.1.1.102:30120
+#EXTINF:-1 group-title="DIA PHUONG", HA GIANG
+udp://225.1.1.62:30120
+#EXTINF:-1 group-title="DIA PHUONG", LÀO CAI
+udp://225.1.1.119:30120
+#EXTINF:-1 group-title="DIA PHUONG", YÊN BÁI
+udp://225.1.1.39:30120
+#EXTINF:-1 group-title="DIA PHUONG", Sơn La
+udp://225.1.1.98:30120
+#EXTINF:-1 group-title="DIA PHUONG", ĐIỆN BIÊN
+udp://225.1.1.74:30120
+#EXTINF:-1 group-title="DIA PHUONG", Lạng Sơn
+udp://225.1.1.160:30120
+#EXTINF:-1 group-title="DIA PHUONG", Tuyên Quang
+udp://225.1.2.188:30120
+#EXTINF:-1 group-title="DIA PHUONG", Thái Nguyên 
+udp://225.1.2.179:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hòa Bình 
+udp://225.1.2.168:30120
+#EXTINF:-1 group-title="DIA PHUONG", BẮC GIANG
+udp://225.1.1.164:30120
+#EXTINF:-1 group-title="DIA PHUONG", Phú Thọ 
+udp://225.1.2.165:30120
+#EXTINF:-1 group-title="DIA PHUONG", VĨNH PHÚC
+udp://225.1.2.99:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hải Phòng
+udp://225.1.2.187:30120
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Ninh 1
+udp://225.1.2.181:30120
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Ninh 3
+udp://225.1.2.180:30120
+#EXTINF:-1 group-title="DIA PHUONG", THAI BINH
+udp://225.1.1.99:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hải Dương 
+udp://225.1.1.158:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hưng Yên 
+udp://225.1.1.118:30120
+#EXTINF:-1 group-title="DIA PHUONG", BẮC NINH
+udp://225.1.1.40:30120
+#EXTINF:-1 group-title="DIA PHUONG", HÀ NAM
+udp://225.1.1.63:30120
+#EXTINF:-1 group-title="DIA PHUONG", Nam Định 
+udp://225.1.1.120:30120
+#EXTINF:-1 group-title="DIA PHUONG", Ninh Bình
+udp://225.1.2.185:30120
+#EXTINF:-1 group-title="DIA PHUONG", THANH HÓA
+udp://225.1.2.184:30120
+#EXTINF:-1 group-title="DIA PHUONG", NGHE AN
+udp://225.1.2.183:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hà Tĩnh 
+udp://225.1.1.75:30120
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Bình 
+udp://225.1.2.164:30120
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Trị 
+udp://225.1.1.117:30120
+#EXTINF:-1 group-title="DIA PHUONG", HUẾ
+udp://225.1.1.161:30120
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 1
+udp://225.1.1.147:30120 
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 2
+udp://225.1.1.146:30120
+#EXTINF:-1 group-title="DIA PHUONG", Bình Định
+udp://225.1.1.115:30120
+#EXTINF:-1 group-title="DIA PHUONG", Quảng Ngãi
+udp://225.1.2.174:30120
+#EXTINF:-1 group-title="DIA PHUONG", Khánh Hòa
+udp://225.1.1.133:30120
+#EXTINF:-1 group-title="DIA PHUONG", Kon Tum 
+udp://225.1.1.36:30120
+#EXTINF:-1 group-title="DIA PHUONG", GIA LAI
+udp://225.1.2.176:30120
+#EXTINF:-1 group-title="DIA PHUONG", Đắc Lắc
+udp://225.1.1.64:30120
+#EXTINF:-1 group-title="DIA PHUONG", Lâm Đồng 
+udp://225.1.2.177:30120
+#EXTINF:-1 group-title="DIA PHUONG", BINH THUAN
+udp://@225.1.1.124:30120
+#EXTINF:-1 group-title="DIA PHUONG", NINH THUAN
+udp://225.1.2.178:30120
+#EXTINF:-1 group-title="DIA PHUONG", TÂY NINH
+udp://225.1.1.130:30120
+#EXTINF:-1 group-title="DIA PHUONG", LONG AN
+udp://225.1.1.162:30120
+#EXTINF:-1 group-title="DIA PHUONG", BÌNH PHƯỚC 1
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="DIA PHUONG", BÌNH PHƯỚC 2
+udp://@225.1.2.38:30120
+#EXTINF:-1 group-title="DIA PHUONG", BINH DUONG 1
+udp://225.1.1.150:30120
+#EXTINF:-1 group-title="DIA PHUONG", BINH DUONG 2
+udp://225.1.1.149:30120
+#EXTINF:-1 group-title="DIA PHUONG", BINH DUONG 4 HD
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Nai 1
+udp://225.1.1.152:30120
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Nai 2
+udp://225.1.1.151:30120
+#EXTINF:-1 group-title="DIA PHUONG", BARIA VUNGTAU
+udp://225.1.2.175:30120
+#EXTINF:-1 group-title="DIA PHUONG", VINH LONG 1 HD
+udp://@225.1.1.155:30120
+#EXTINF:-1 group-title="DIA PHUONG", VINH LONG 2 HD
+udp://@225.1.1.154:30120
+#EXTINF:-1 group-title="DIA PHUONG", CAN THO
+udp://225.1.1.132:30120
+#EXTINF:-1 group-title="DIA PHUONG", BẾN TRE
+udp://225.1.1.156:30120
+#EXTINF:-1 group-title="DIA PHUONG", TRÀ VINH
+udp://225.1.2.172:30120
+#EXTINF:-1 group-title="DIA PHUONG", SÓC TRĂNG
+udp://225.1.1.159:30120
+#EXTINF:-1 group-title="DIA PHUONG", Hậu Giang
+udp://225.1.1.157:30120
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang
+udp://225.1.2.182:30120
+#EXTINF:-1 group-title="DIA PHUONG", Tiền Giang
+udp://225.1.2.170:30120
+#EXTINF:-1 group-title="DIA PHUONG", An Giang
+udp://225.1.2.173:30120
+#EXTINF:-1 group-title="DIA PHUONG", BẠC LIÊU
+udp://225.1.1.61:30120
+#EXTINF:-1 group-title="DIA PHUONG", DONG THAP 1 HD
+udp://@225.1.1.163:30120
+#EXTINF:-1 group-title="DIA PHUONG", Cà Mau
+udp://225.1.1.104:30120
+#EXTINF:-1 group-title="DIA PHUONG", AZ SHOP SCTV10
+udp://@225.1.2.205:30120
+
+#EXTINF:-1 group-title="QUOC TE", STARMOVIES 
+udp://@225.1.1.205:30120
+#EXTINF:-1 group-title="QUOC TE", STAR MOVIES HD
+udp://@225.1.2.239:30120
+#EXTINF:-1 group-title="QUOC TE", HBO s1
+udp://@225.1.1.48:30120
+#EXTINF:-1 group-title="QUOC TE", HBO s2
+udp://@225.1.1.235:30120
+#EXTINF:-1 group-title="QUOC TE", HBO HD
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="QUOC TE", RED BY HBO
+udp://@225.1.1.65:30120
+#EXTINF:-1 group-title="QUOC TE", CINEMAX
+udp://@225.1.1.230:30120
+#EXTINF:-1 group-title="QUOC TE", AXN
+udp://@225.1.1.237:30120
+#EXTINF:-1 group-title="QUOC TE", AXN HD
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="QUOC TE", CARTOON NETWORK 
+udp://@225.1.1.240:30120
+#EXTINF:-1 group-title="QUOC TE", CARTOON NETWORK HD
+udp://@225.1.2.230:30120
+#EXTINF:-1 group-title="QUOC TE", TOONAMI HD
+udp://@225.1.2.220:30120
+#EXTINF:-1 group-title="QUOC TE", DISNEY JUHIOR
+udp://@225.1.1.233:30120
+#EXTINF:-1 group-title="QUOC TE", DISNEY
+udp://@225.1.1.232:30120
+#EXTINF:-1 group-title="QUOC TE", NATGEO 
+udp://@225.1.1.244:30120
+#EXTINF:-1 group-title="QUOC TE", NATGEO HD
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="QUOC TE", DISCOVERY 
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="QUOC TE", DISCOVERY WORLD HD
+udp://@225.1.2.222:30120
+#EXTINF:-1 group-title="QUOC TE", TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="QUOC TE", ANIMALPLANET
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="QUOC TE", DA VINCI HD s1
+udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="QUOC TE", DA VINCI HD s2
+udp://@225.1.2.253:30120
+#EXTINF:-1 group-title="QUOC TE", AFC
+udp://@225.1.2.16:30120
+#EXTINF:-1 group-title="QUOC TE", AFC HD
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="QUOC TE", OUTDOOR HD
+udp://@225.1.2.214:30120
+#EXTINF:-1 group-title="QUOC TE", DIVA
+udp://@225.1.1.199:30120
+#EXTINF:-1 group-title="QUOC TE", CNN s1
+udp://@225.1.2.15:30120
+#EXTINF:-1 group-title="QUOC TE", CNN s2
+udp://@225.1.1.242:30120
+#EXTINF:-1 group-title="QUOC TE", NHK WORD
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="QUOC TE", TV5 MONDE
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="QUOC TE", ARRIANG
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="QUOC TE", MEDIACORP
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="QUOC TE", DW
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="QUOC TE", A+ 
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="QUOC TE", STAR WORD
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="QUOC TE", STAR WORLD HD
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="QUOC TE", S GEM
+udp://@225.1.1.18:30120
+#EXTINF:-1 group-title="QUOC TE", S GEM HD
+udp://@225.1.1.60:30120
+#EXTINF:-1 group-title="QUOC TE", FOX SPORT 
+udp://@225.1.1.239:30120
+#EXTINF:-1 group-title="QUOC TE", FOX SPORTS HD
+udp://@225.1.2.228:30120
+#EXTINF:-1 group-title="QUOC TE", FOX SPORT 2 
+udp://@225.1.1.241:30120 
+#EXTINF:-1 group-title="QUOC TE", FOX SPORT 2 HD
+udp://@225.1.1.141:30120
+#EXTINF:-1 group-title="QUOC TE", MTV
+udp://@225.1.1.245:30120
+#EXTINF:-1 group-title="QUOC TE", CHANNEL V
+udp://@225.1.1.243:30120
+#EXTINF:-1 group-title="QUOC TE", CHANNEL V HD
+udp://@225.1.1.187:30120
+#EXTINF:-1 group-title="QUOC TE", FASHION TV
+udp://@225.1.1.234:30120
+#EXTINF:-1 group-title="QUOC TE", FASHION TV HD
+udp://@225.1.2.226:30120
+
+
+
+
+
+
+
+
